@@ -31,4 +31,4 @@ code - The entire firmware with all the libraries
 datasheets - Contains all the datasheets and references
 images - Images of the robot and the joystick controller
 report - Documentation on the working of the robot and all the task submissions
-schematics - Hardware schematic of the robot and the joystick controller
+schematics - Hardware schematic of the robot and the joystick controller.
