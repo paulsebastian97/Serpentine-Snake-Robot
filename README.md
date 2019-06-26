@@ -8,7 +8,7 @@ Think in the way what I would ask If want to see when I see it for the first tim
 
 Team ID: eYRC-BB#440 | eYRC-2017 conducted by e-Yantra, CSE Department, IIT Bombay, sponsored by MHRD, Government of India
 
-# Repository Contents
+## Repository Contents
 * code - The entire firmware with all the libraries
 * datasheets - Contains all the datasheets and references
 * images - Images of the robot and the joystick controller
