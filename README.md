@@ -14,3 +14,6 @@ Team ID: eYRC-BB#440 | eYRC-2017 conducted by e-Yantra, CSE Department, IIT Bomb
 * images - Images of the robot and the joystick controller
 * report - Documentation on the working of the robot and all the task submissions
 * schematics - Hardware schematic of the robot and the joystick controller
+
+## Wireless Joystick Controller
+![alt tag](link)
