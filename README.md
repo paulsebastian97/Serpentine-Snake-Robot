@@ -4,7 +4,7 @@ A biomorphic hyper-redundant snake robot capable of taversing different terrains
 ## Video Demonstration
 [Serpentine Snake Robot Video Demonstration](../blob/master/LICENSE)
 
-Team ID: eYRC-BB#440 | eYRC-2017 conducted by e-Yantra, CSE Department, IIT Bombay, sponsored by MHRD, Government of India.
+Team ID: eYRC#440 | eYRC-2017 conducted by e-Yantra, CSE Department, IIT Bombay, sponsored by MHRD, Government of India.
 Team members: Paul Sebastian, Adarsh V.S, Akshay S.N, Adhish G.V
 
 ## Repository Contents
