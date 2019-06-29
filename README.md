@@ -25,3 +25,10 @@ Team members: Paul Sebastian, Adarsh V.S, Akshay S.N, Adhish G.V
 
 ## Wireless Joystick Controller Schematics
 ![alt tag](https://github.com/paulsebastian97/Serpentine-Snake-Robot/blob/master/Schematics/Wireless%20Joystick%20Controller%20Schematics.PNG)
+
+## Challenges Involved in Building the Robot
+* Electronic circuit designing
+* Microcontroller programming (Using Arduino Nano)
+* 3D designing and 3D printing
+* Simulation (V-rep software)
+* Joystick designing for wireless communication.
