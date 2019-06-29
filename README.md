@@ -1,5 +1,5 @@
 # Serpentine Snake Robot
-A biomorphic hyper-redundant snake robot capable of taversing different terrains using serpentine motion. It is also designed to detect pests such as dummy rodents and scare them away using sound. It is based on ATmega328 microcontroller, which uses 10 servo motors(GS-5515MG) for the serpentine motion and rodent detection circuit to detect rodents and scare them using sound.
+A biomorphic hyper-redundant snake robot capable of taversing different terrains using serpentine motion. It is also designed to detect pests such as dummy rodents and scare them away using sound. It is based on the ATmega328 microcontroller, which uses 10 servo motors(GS-5515MG) for the serpentine motion and rodent detection circuit to detect rodents and scare them using sound.
 
 ## Video Demonstration
 [Serpentine Snake Robot Video Demonstration](../blob/master/LICENSE)
