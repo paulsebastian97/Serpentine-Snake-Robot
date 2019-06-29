@@ -15,5 +15,14 @@ Team ID: eYRC-BB#440 | eYRC-2017 conducted by e-Yantra, CSE Department, IIT Bomb
 * report - Documentation on the working of the robot and all the task submissions
 * schematics - Hardware schematic of the robot and the joystick controller
 
-## Wireless Joystick Controller
+## Serpentine Snake Robot
 ![alt tag](https://github.com/paulsebastian97/Serpentine-Snake-Robot/blob/master/Images/Serpentine%20Snake%20Robot.png)
+
+## Wireless Joystick Controller
+![alt tag](https://github.com/paulsebastian97/Serpentine-Snake-Robot/blob/master/Images/Wireless%20Joystick%20Controller.PNG)
+
+## Serpentine Snake Robot Schematics
+![alt tag](https://github.com/paulsebastian97/Serpentine-Snake-Robot/blob/master/Schematics/Serpentine%20Snake%20Robot%20Schematics.png)
+
+## Wireless Joystick Controller Schematics
+![alt tag](https://github.com/paulsebastian97/Serpentine-Snake-Robot/blob/master/Schematics/Wireless%20Joystick%20Controller%20Schematics.PNG)
