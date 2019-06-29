@@ -8,11 +8,11 @@ Team ID: eYRC-BB#440 | eYRC-2017 conducted by e-Yantra, CSE Department, IIT Bomb
 Team members: Paul Sebastian, Adarsh V.S, Akshay S.N, Adhish G.V
 
 ## Repository Contents
-* code - The entire firmware with all the libraries
-* datasheets - Contains all the datasheets and references
-* images - Images of the robot and the joystick controller
-* report - Documentation on the working of the robot and all the task submissions
-* schematics - Hardware schematic of the robot and the joystick controller
+* Code - The entire firmware of the robot and the wireless joystick controller.
+* Datasheets - Contains all the datasheets and references.
+* Images - Images of the robot and the joystick controller.
+* Report - Documentation on the theme analysis and initial implementation strategy.
+* Schematics - Hardware schematic of the robot and the joystick controller.
 
 ## Serpentine Snake Robot
 ![alt tag](https://github.com/paulsebastian97/Serpentine-Snake-Robot/blob/master/Images/Serpentine%20Snake%20Robot.png)
