@@ -1,8 +1,8 @@
 # Serpentine Snake Robot
-A biomorphic hyper-redundant snake robot capable of taversing different terrains using serpentine motion. It is designed to autonomously detect pests such as dummy rodents and scare them away using sound. It is based on the ATmega328 microcontroller, which uses 10 servo motors(GS-5515MG) for the serpentine motion and rodent detection circuit to detect rodents and scare them using sound. The rodent detection circuit uses color sensor(TCS230) to detect the rodent, two LEDs (eyes of the snake) to display the color of the detected rodent and a buzzer to make sound. A self-designed wireless joystick controller is used for navigation of the robot using nRF24L01 tranceiver.
+A biomorphic hyper-redundant snake robot capable of traversing different terrains using serpentine motion. It is designed to autonomously detect pests such as dummy rodents and scare them away using sound. It is based on the ATmega328 microcontroller, which uses 10 servo motors(GS-5515MG) for the serpentine motion and rodent detection circuit to detect rodents and scare them using sound. The rodent detection circuit uses color sensor(TCS230) to detect the rodent, two LEDs (eyes of the snake) to display the color of the detected rodent and a buzzer to make sound. A self-designed wireless joystick controller is used for navigation of the robot using nRF24L01 tranceiver.
 
 ## Video Demonstration
-[Serpentine Snake Robot Video Demonstration](../blob/master/LICENSE)
+[Serpentine Snake Robot Video Demonstration](https://youtu.be/3_glQZoEtkA)
 
 Team ID: eYRC#440 | eYRC-2017 conducted by e-Yantra, CSE Department, IIT Bombay, sponsored by MHRD, Government of India.
 Team members: Paul Sebastian, Adarsh V.S, Akshay S.N, Adhish G.V
